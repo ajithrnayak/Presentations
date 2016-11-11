@@ -11,3 +11,7 @@ An archive of all my presentation materials. Visit : https://speakerdeck.com/aji
 - 🍎🍏🍎🍏😍😍
 - A recap of announcements from Apple's Developer event 2016
 - [Speaker Deck link](https://speakerdeck.com/ajithrnayak/hello-wwdc16-recap)
+
+## 3. ASO/ App Size
+- I shared my findings and thoughts on significant aspect of App Store Optimization- The App Size.
+- [Speaker Deck link](https://speakerdeck.com/ajithrnayak/app-size)
